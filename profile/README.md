@@ -4,7 +4,7 @@
 
 Ce projet a pour but de pouvoir lancer et de répartir des traitements sur plusieurs machines ou VM et de les traiter sur plusieurs cœurs de calcul.
 
-Ce projet est sous licence CECILL-B (voir [LICENSE.md](LICENSE.md)).
+Ce projet est sous licence CECILL-B (voir [LICENSE.md](../LICENSE.md)).
 
 <!--
 
