@@ -1,3 +1,0 @@
-IGN GPAO
-
-Hello World
