@@ -6,7 +6,7 @@ Ce projet a pour but de pouvoir lancer et de répartir des traitements sur plusi
 
 Ce projet est sous licence CECILL-B (voir [LICENSE.md](https://github.com/ign-gpao/.github/blob/main/LICENSE.md)).
 
-[![IGN](../images/logo_ign.png)](https://www.ign.fr)
+[![IGN](https://pbs.twimg.com/profile_images/1178942648398290945/WEFam50z_400x400.jpg)](https://www.ign.fr)
 
 <!--
 
