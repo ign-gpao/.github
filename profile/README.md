@@ -3,7 +3,7 @@
 ### Introduction
 
 Le projet GPAO est une plate-forme open-source de distribution de calculs sur plusieurs noeuds en exploitant au mieu les ressources de chaque machine. Le projet dispose d'une librairie python qui facilite la création de workflow de travail en générant des fichiers JSON directement interprétables par la GPAO. Elle dispose d'une interface web permettant de suivre et de piloter les traitements ainsi que les noeuds de calcul.
-La GPAO peut-être déployé de différentes manières soit nativement soit en utilisant la technologie docker au travers de docker-compose.
+La GPAO peut-être déployée de différentes manières, soit nativement soit en utilisant la technologie docker au travers de docker-compose.
 
 ### Composition du projet
 
