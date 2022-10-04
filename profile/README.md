@@ -16,7 +16,7 @@ Le projet est composé de différents modules dont voici les descriptifs :
 | [Monitor](https://github.com/ign-gpao/monitor) | Interface web écrit en NodeJS permettant le suivi et le pilotage des traitements |
 | [Client](https://github.com/ign-gpao/client) | Module python executant les différents tâche d'un projet |
 | [Docker](https://github.com/ign-gpao/docker) | Module permettant le déploiement de l'ensemble des briques de la GPAO au travers de docker |
-| [Builder GPAO](builder-python) | Libraririe python de création de projet de travail sous forme de JSON |
+| [Builder GPAO](https://github.com/ign-gpao/builder-python) | Libraririe python de création de projet de travail sous forme de JSON |
 
 Le code de chaque module est stocké sous github dans des repository différents.
 
