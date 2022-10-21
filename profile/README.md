@@ -10,7 +10,7 @@ La GPAO peut-être déployée de différentes manières, soit nativement soit en
 Le projet est composé de différents modules dont voici les descriptifs et les versions de la dernière release stable : 
 
 | Module | Description | Version |
-| --- | --- |
+| --- | --- | --- |
 | [Base données](https://github.com/ign-gpao/database) | Stocke les worflows au travers de postgresql | 0.3.2 |
 | [API](https://github.com/ign-gpao/api) | Module écrit en NodeJS interagit avec les base de données | 1.1.1 |
 | [Monitor](https://github.com/ign-gpao/monitor) | Interface web écrit en NodeJS permettant le suivi et le pilotage des traitements | 1.0.1 |
