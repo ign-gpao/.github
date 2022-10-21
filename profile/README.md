@@ -7,16 +7,16 @@ La GPAO peut-être déployée de différentes manières, soit nativement soit en
 
 ### Composition du projet
 
-Le projet est composé de différents modules dont voici les descriptifs : 
+Le projet est composé de différents modules dont voici les descriptifs et les versions de la dernière release stable : 
 
-| Module | Description |
+| Module | Description | Version |
 | --- | --- |
-| [Base données](https://github.com/ign-gpao/database) | Stocke les worflows au travers de postgresql |
-| [API](https://github.com/ign-gpao/api) | Module écrit en NodeJS interagit avec les base de données |
-| [Monitor](https://github.com/ign-gpao/monitor) | Interface web écrit en NodeJS permettant le suivi et le pilotage des traitements |
-| [Client](https://github.com/ign-gpao/client) | Module python executant les différents tâche d'un projet |
-| [Docker](https://github.com/ign-gpao/docker) | Module permettant le déploiement de l'ensemble des briques de la GPAO au travers de docker |
-| [Builder GPAO](https://github.com/ign-gpao/builder-python) | Librairie python de création de projet de travail sous forme d'une structure JSON |
+| [Base données](https://github.com/ign-gpao/database) | Stocke les worflows au travers de postgresql | 0.3.2 |
+| [API](https://github.com/ign-gpao/api) | Module écrit en NodeJS interagit avec les base de données | 1.1.1 |
+| [Monitor](https://github.com/ign-gpao/monitor) | Interface web écrit en NodeJS permettant le suivi et le pilotage des traitements | 1.0.1 |
+| [Client](https://github.com/ign-gpao/client) | Module python executant les différents tâche d'un projet | 0.6.0 |
+| [Docker](https://github.com/ign-gpao/docker) | Module permettant le déploiement de l'ensemble des briques de la GPAO au travers de docker | 0.2.0 |
+| [Builder GPAO](https://github.com/ign-gpao/builder-python) | Librairie python de création de projet de travail sous forme d'une structure JSON | 0.7.2 |
 
 Le code ainsi qu'une documentation plus compléte de chaque module est disponible sous github dans des `repositories` différents.
 
