@@ -11,12 +11,12 @@ Le projet est composé de différents modules dont voici les descriptifs et les 
 
 | Module | Description | Version |
 | --- | --- | --- |
-| [Base données](https://github.com/ign-gpao/database) | Stocke les worflows au travers de postgresql | 0.3.2 |
-| [API](https://github.com/ign-gpao/api) | Module écrit en NodeJS interagit avec les base de données | 1.2.0 |
-| [Monitor](https://github.com/ign-gpao/monitor) | Interface web écrit en NodeJS permettant le suivi et le pilotage des traitements | 1.5.0 |
-| [Client](https://github.com/ign-gpao/client) | Module python executant les différents tâche d'un projet | 0.7.1 |
-| [Docker](https://github.com/ign-gpao/docker) | Module permettant le déploiement de l'ensemble des briques de la GPAO au travers de docker | 0.3.0 |
-| [Builder GPAO](https://github.com/ign-gpao/builder-python) | Librairie python de création de projet de travail sous forme d'une structure JSON | 0.7.2 |
+| [Base données](https://github.com/ign-gpao/database) | Stocke les worflows au travers de postgresql | 0.6.0 |
+| [API](https://github.com/ign-gpao/api) | Module écrit en NodeJS interagit avec les base de données | 1.10.0 |
+| [Monitor](https://github.com/ign-gpao/monitor) | Interface web écrit en NodeJS permettant le suivi et le pilotage des traitements | 1.23.0 |
+| [Client](https://github.com/ign-gpao/client) | Module python executant les différents tâche d'un projet | 0.12.0 |
+| [Docker](https://github.com/ign-gpao/docker) | Module permettant le déploiement de l'ensemble des briques de la GPAO au travers de docker | 0.5.0 |
+| [Builder GPAO](https://github.com/ign-gpao/builder-python) | Librairie python de création de projet de travail sous forme d'une structure JSON | 0.9.0 |
 
 Le code ainsi qu'une documentation plus compléte de chaque module est disponible sous github dans des `repositories` différents.
 
