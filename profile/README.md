@@ -7,7 +7,7 @@ La GPAO peut-être déployée de différentes manières, soit nativement soit en
 
 ### Composition du projet
 
-Le projet est composé de différents modules dont voici les descriptifs et les versions de la dernière release stable 3.1.0 : 
+Le projet est composé de différents modules dont voici les descriptifs et les versions de la dernière release stable 3.2.0 : 
 
 | Module | Description | Version |
 | --- | --- | --- |
