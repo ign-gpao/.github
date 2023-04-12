@@ -8,7 +8,9 @@ Les traitements sont effectués par des nœuds de calculs gérés par les client
 
 La GPAO peut être déployée de différentes manières, soit nativement soit en utilisant la technologie Docker au travers de Docker Compose. 
 
+<div style="width:100px">
 ![schéma GPAO](https://github.com/ign-gpao/.github/blob/main/images/gpao_doc.png)
+</div>
 
 ## Composition du projet
 
