@@ -14,16 +14,16 @@ La GPAO peut être déployée de différentes manières, soit nativement soit en
 
 ## Composition du projet
 
-Le projet est composé de différents modules dont voici les descriptifs et les versions de la dernière release stable 3.3.0 :  
+Le projet est composé de différents modules dont voici les descriptifs et les versions de la dernière release stable 3.4.0 :  
 
 | Module | Description | Version |
 | --- | --- | --- |
-| [Base données](https://github.com/ign-gpao/database) | Base de données PostgreSQL qui stocke les workflows | 0.9.0 |
-| [API](https://github.com/ign-gpao/api) | Module développé en Node.js qui connecte les bases de données et les autres briques de la GPAO | 1.14.0 |
-| [Monitor](https://github.com/ign-gpao/monitor) | Interface web développée en Node.js permettant le suivi et le pilotage des traitements | 1.30.0 |
-| [Client](https://github.com/ign-gpao/client) | Module python exécutant les différents jobs d'un projet | 0.13.2 |
-| [Docker](https://github.com/ign-gpao/docker) | Module permettant le déploiement de l'ensemble des briques de la GPAO au travers de Docker | 0.6.0 |
-| [Builder GPAO](https://github.com/ign-gpao/builder-python) | Librairie python de création de projet de travail sous forme d'une structure JSON | 0.9.0 |
+| [Base données](https://github.com/ign-gpao/database) | Base de données PostgreSQL qui stocke les workflows | 0.14.0 |
+| [API](https://github.com/ign-gpao/api) | Module développé en Node.js qui connecte les bases de données et les autres briques de la GPAO | 1.25.0 |
+| [Monitor](https://github.com/ign-gpao/monitor) | Interface web développée en Node.js permettant le suivi et le pilotage des traitements | 1.37.0 |
+| [Client](https://github.com/ign-gpao/client) | Module python exécutant les différents jobs d'un projet | 0.16.0 |
+| [Docker](https://github.com/ign-gpao/docker) | Module permettant le déploiement de l'ensemble des briques de la GPAO au travers de Docker | 0.14.0 |
+| [Builder GPAO](https://github.com/ign-gpao/builder-python) | Librairie python de création de projet de travail sous forme d'une structure JSON | 0.10.0 |
 
 Le code ainsi qu'une documentation plus complète de chaque module est disponible sous GitHub dans des `repositories` différents.
 
